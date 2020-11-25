@@ -1,0 +1,45 @@
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: #d9d9d9;
+  /* gradient Zuckerberg's Backache from eggradients*/
+  background-image: linear-gradient(315deg, #d9d9d9 0%, #f6f2f2 74%);
+}
+
+.Card {
+  font-family: "Libre Baskerville", serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: auto;
+  padding: 1em 2em;
+  background-color: white;
+  width: 15em;
+  height: 25em;
+  border-radius: 1.5em;
+  box-shadow: 7px 8px 14px 5px #aaa;
+}
+
+h1 {
+  font-size: 18pt;
+  color: orangered;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: "Libre Baskerville", serif;
+  font-size: 12pt;
+  color: darkslateblue;
+  font-style: italic;
+  font-weight: 400;
+}
+
+p {
+  font-weight: normal;
+  font-size: 11pt;
+  text-align: justify;
+  line-height: 1.5em;
+}
