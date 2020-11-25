@@ -21,11 +21,11 @@ class Card extends React.Component {
         isFlipped={this.state.isFlipped}
         flipDirection="horizontal"
       >
-        <div className="Card back" onClick={this.handleClick}>
-          <h1>Game</h1>
+        <div className="Card front" onClick={this.handleClick}>
+          <h1>Conflict Academia</h1>
         </div>
 
-        <div className="Card front" onClick={this.handleClick}>
+        <div className="Card back" onClick={this.handleClick}>
           <h1>Sample Card</h1>
           <p>
             A situation happens that is hard for everyone to deal with because

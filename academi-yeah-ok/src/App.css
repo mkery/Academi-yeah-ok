@@ -12,6 +12,7 @@
 .Card {
   font-family: "Libre Baskerville", serif;
   display: flex;
+  overflow: hidden;
   flex-direction: column;
   justify-content: space-around;
   margin: auto;
@@ -21,6 +22,14 @@
   height: 25em;
   border-radius: 1.5em;
   box-shadow: 7px 8px 14px 5px #aaa;
+}
+
+.Card.front {
+  background-color: coral;
+}
+.Card.front h1 {
+  color: black;
+  font-size: 28pt;
 }
 
 h1 {
