@@ -9,6 +9,35 @@
   background-image: linear-gradient(315deg, #d9d9d9 0%, #f6f2f2 74%);
 }
 
+h1 {
+  font-size: 18pt;
+  color: orangered;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: "Libre Baskerville", serif;
+  font-size: 12pt;
+  color: darkslateblue;
+  font-style: italic;
+  font-weight: 400;
+}
+
+p {
+  font-weight: normal;
+  font-size: 11pt;
+  text-align: justify;
+  line-height: 1.5em;
+}
+
+.headerArea {
+}
+
+.cardArea {
+  flex: 1 1 auto;
+  padding-top: 4em;
+}
+
 .Card {
   font-family: "Libre Baskerville", serif;
   display: flex;
@@ -32,23 +61,8 @@
   font-size: 28pt;
 }
 
-h1 {
-  font-size: 18pt;
-  color: orangered;
-  font-weight: bold;
-}
-
-h3 {
-  font-family: "Libre Baskerville", serif;
-  font-size: 12pt;
-  color: darkslateblue;
-  font-style: italic;
-  font-weight: 400;
-}
-
-p {
-  font-weight: normal;
-  font-size: 11pt;
-  text-align: justify;
-  line-height: 1.5em;
+.refreshIcon {
+  width: 2.5em;
+  margin: auto;
+  margin-top: 4em;
 }

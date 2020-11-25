@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="92px" viewBox="0 0 93 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>noun_Refresh_737772@3x</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.371603 0 0 0 0 0.336992 0 0 0 0 0.336992 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="noun_Refresh_737772">
+            <g>
+                <path d="M92,44.9 C90.9,21.2 71.5,1.9 47.8,1 C21.6,2.66453526e-15 0,21 0,47 C0,63 8.2,77.2 20.7,85.4 C21.9,85 22.5,84.8 23.7,84.4 L29,68.4 C28.8,67.6 28.7,67.1 28.5,66.3 C23.3,61.5 20,54.6 20,47 C20,32.1 32.5,20.1 47.7,21.1 C60.7,21.9 71.3,32.5 72,45.6 C72.4,52.9 69.8,59.6 65.3,64.5 L53.8,49.3 L41.3,92 L91,92 L78.5,79.5 C87.3,70.7 92.6,58.4 92,44.9 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

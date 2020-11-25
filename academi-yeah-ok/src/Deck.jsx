@@ -1,11 +1,11 @@
-import React from 'react';
-import Card from "./Card"
+import React from "react";
+import Card from "./Card";
 
 class Deck extends React.Component {
   render() {
-    return (
-      <Card/>
-    );
+    if (this.props.currentPrompt)
+      return <Card prompt={this.props.currentPrompt} />;
+    return null;
   }
 }
 

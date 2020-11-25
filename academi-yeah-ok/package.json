@@ -7,6 +7,8 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "google-spreadsheet": "^3.0.13",
+    "googleapis": "^65.0.0",
     "react": "^17.0.1",
     "react-card-flip": "^1.0.11",
     "react-dom": "^17.0.1",

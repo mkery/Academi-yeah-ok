@@ -1,3 +1,8 @@
+# Credits:
+Icon Refresh by Vladimir from the Noun Project
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

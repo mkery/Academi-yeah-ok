@@ -26,11 +26,8 @@ class Card extends React.Component {
         </div>
 
         <div className="Card back" onClick={this.handleClick}>
-          <h1>Sample Card</h1>
-          <p>
-            A situation happens that is hard for everyone to deal with because
-            it's pretty terrible and toxic. Help.
-          </p>
+          <h1>{this.props.prompt.Category}</h1>
+          <p>{this.props.prompt.Prompt || "Error"}</p>
           <h3>How would you like to see this case solved by the department?</h3>
         </div>
       </ReactCardFlip>
